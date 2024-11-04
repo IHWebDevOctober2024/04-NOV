@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+body {
+  background: linear-gradient(to bottom, rgb(0, 153, 255), rgb(177, 177, 255));
+  color: aliceblue;
+  font-family: "Lucida Sans";
+}
