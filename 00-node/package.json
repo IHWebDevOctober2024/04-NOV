@@ -1,0 +1,15 @@
+{
+  "name": "node-test",
+  "version": "0.0.1",
+  "description": "This is my first npm project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo This is the test command",
+    "polly": "node script.js"
+  },
+  "author": "Polly",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
